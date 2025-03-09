@@ -1,0 +1,11 @@
+*.log
+*.bak
+.bash_history
+.gitconfig
+.viminfo
+AppData/
+Downloads/
+OneDrive/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+*.xml
