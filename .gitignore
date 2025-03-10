@@ -8,4 +8,6 @@ Downloads/
 OneDrive/
 ntuser.dat.LOG1
 ntuser.dat.LOG2
-*.xml
+#*.xml
+
+
